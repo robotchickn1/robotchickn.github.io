@@ -1,16 +1,23 @@
 ---
 title: Welcome to NoBook.
 ---
-## Why No_Book?
-I am a student right now...
+## What's Blackbox?
 
-Classes get boring as you know...
+- Interpretation 1: 
+In planes, we would have heard about a box that will have all the messages, the pilot probably wanted to convey during his flight...(even if it reaches the air staff or not)..
 
-I kept writing notes in my classwork and threw them away after the year...
+- Interpretation 2:
+A human mind is also a Blackbox(as per [[Marketing]]), it receives inputs, analyses them and makes decisions. Some tools for decision making are there in this Blackbox.
 
-To keep me motivated and tech-savvy, I started to use No_Book to make all my notes and keep it as an eternal record of things I read once upon on a time...
+Sorry...No Gyan..
 
-Accessible anywhere... everywhere...
+This Blackbox is a well structured format to store knowledge, thoughts and ideas, implementations and execution of plans or programs.
+
+Basically, I was bored in class...
+
+So thought of building this Blackbox...
+
+To use this Blackbox:
 
 > [!caution]
 > You need Internet

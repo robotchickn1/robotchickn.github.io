@@ -218,6 +218,7 @@ New Emergent of Marketing Realities:
 - ambiguity: lack of clarity.
 - Countering VUCA: volatility with vision, ambiguity with agility, complexity with resilience and unknown with resurgence.
 
+---
 ## Marketing Planning:
 
 Plans:
@@ -229,6 +230,7 @@ Plans:
 ![[Drawing 2024-11-11 14.08.27.excalidraw.svg]]
 
 
+---
 ## Consumer Behavior:
 ### Difference bw consumer and customer.
 - Customer is 1-1 meeting, face to face, direct interaction.
@@ -238,6 +240,7 @@ Plans:
 
 ![[Drawing 2024-11-11 15.09.17.excalidraw.svg]]
 
+---
 ## Segmentation, Targeting and Position:
 
 why segmentation:
@@ -271,6 +274,7 @@ Market segmentation:
 - communicable
 - profitable to both consumers and company.
 
+---
 ## Pricing:
 
 
@@ -289,6 +293,7 @@ Market segmentation:
 - segmented: customer, prod. form, location, time.
 - Psychological: Rule of 100, reason: clearance, discounts at the end of the month, charm pricing
 
+---
 ## product strategy:
 - product/service/experience.
 Product Levels:
@@ -360,8 +365,10 @@ Jean Noel K prism:
 - test marketing: standardized, simulated, panel (few stores and feedback), sales wave(free products and see recall value of them for free.)
 - prod launch: early, late, parallel, product commercialization (when, where, what price).
 
+---
 ## Channel management:
 
+---
 ## Integrated Market Communication.
 
 ### 8 modes of Marketing communication Mix:
@@ -433,3 +440,5 @@ factors affecting communication mix:
 Advertisement:
 - msg gen and evaluation
 - creative dev and execution
+
+---

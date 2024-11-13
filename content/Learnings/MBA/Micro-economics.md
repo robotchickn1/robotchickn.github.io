@@ -15,6 +15,7 @@ tags:
 5. *Macro Economics:* Macro economics is analysis of national income, level of employment, price, consumption and investment at an aggregate level.
 
 
+---
 ## Demand:
 - The amount of quantity of a commodity are willing to or able to purchase at a given price and quantity. (Ceteris Paribus, other determinants kept at constant)
 - Determinants:
@@ -71,6 +72,7 @@ if  $e$>0, substitutes.
 if $e$<0, complimentary.
 
 
+---
 ## Supply:
 
 Law of Supply:
@@ -87,6 +89,7 @@ Components affecting supply:
 - policy on tax and subsidy
 
 
+---
 ## Demand Forecasting:
 
 Demand forecasting is a proactive process of finding the quantity customers are willing to purchase, when, where and what price. This becomes the foundation for the entire logistic process.
@@ -107,12 +110,14 @@ Methods of forecast:
 - Controlled experiments
 - Judgmental approach
 
+---
 ## Other peripheral concepts.
 - leading indicator:  a change in the leading indicator that will tell us the pattern of trends that will follow.
 - Coincident indicator:
 - Lagging indicator:
 
 
+---
 ## Production Function:
 $Q=f(labour,management,land,capital,technology)$ the independent var are also called the factors of production.
 
@@ -151,6 +156,7 @@ other concepts:
 - economic profit and accounting profit.
 - cannibalization
 
+---
 ## Market Structure:
 
 1. Perfect competition
@@ -220,3 +226,4 @@ if HHI > 2500, very concentrated.
 Conclusions:
 - monopsony: many sellers but less buyers. 
 - oligopsony: few sellers but less buyers
+---

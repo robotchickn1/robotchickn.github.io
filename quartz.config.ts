@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴Black_Box",
+    pageTitle: "🌀 BlackBox",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -17,15 +17,15 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian","Excalidraw"],
     defaultDateType: "created",
     generateSocialImages: false,
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: "Host Grotesk Medium",
+        body: "Monteserrat",
         code: "IBM Plex Mono",
       },
       colors: {
@@ -34,8 +34,8 @@ const config: QuartzConfig = {
           lightgray: "#e5e5e5",
           gray: "#b8b8b8",
           darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
+          dark: "#221DBF",
+          secondary: "#221DBF",
           tertiary: "#84a59d",
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#fff23688",
@@ -43,10 +43,10 @@ const config: QuartzConfig = {
         darkMode: {
           light: "#161618",
           lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
+          gray: "#646464", //for below the main tag
+          darkgray: "#d4d4d4", // main content and small things
+          dark: "#04DCE4", // main headings
+          secondary: "#04DCE4", // heading and other frames
           tertiary: "#84a59d",
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#b3aa0288",

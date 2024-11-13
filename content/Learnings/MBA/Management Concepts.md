@@ -35,6 +35,7 @@ Management is the process of planning, organizing, leading and controlling the e
 - informational: monitor, disseminator, spokesperson.
 - decisional; entrepreneur, disturbance handler, resource allocator and negotiator.
 
+---
 ## Theories in Management:
 
 theory is a coherent group of assumption put forth to explain a relationship between two or more variables.
@@ -120,6 +121,7 @@ Fourteen principles:
 
 `Human school of management.`
 
+---
 ## Planning:
 
 ### Vision: 
@@ -215,6 +217,7 @@ should be:
 - time limited.
 - relevant.
 
+---
 ## Organization:
 
 The formal patterns of interactions and coordination designed by management to link tasks of individuals and groups in achieving organizational goals.
@@ -258,6 +261,7 @@ Slack resources
 info systems
 lateral relations
 
+---
 ## Organizing:
 
 arrange, direct, communicate and control the activities of an enterprise.
@@ -271,6 +275,7 @@ process:
 - reviewing and reorganizing
 
 
+---
 ## Direction:
 Directing means issuing order, leading and motivating subordinates as they execute the orders.
 
@@ -293,6 +298,7 @@ Leadership:
 - dimensions: ownership, achievement, collaboration, vision and authenticity.
 - Transformational and transactional.
 
+---
 ## Controlling:
 1. monitor and regulate how efficiently and effectively an organization and its members are performing the activities necessary to achieve organizational goals.
 
@@ -309,6 +315,8 @@ Concurrent/process
 Post action/Output
 Internal
 External
+
+---
 ## Change Management:
 Triggers for change and innovation come from within or outside.
 Internal: decisions, problems, company growth and decline, leadership, changes to inter org. alliance
@@ -332,6 +340,7 @@ Forces of change:
 3. white waters rapid metaphor
 4. the calm waters metaphor.
 
+---
 ## Management Thinkers:
 ### CK Prahalad:
 - core competencies
@@ -351,14 +360,7 @@ theory of disruptive innovation.
 Carrols Dweck:
 Growth vs fixed mindset.
 
-
-
-
-
-
-
-
-
+---
 ## Bhagavan Sathya Sai Manager.
 - management is nothing but management.
 - anything between birth and administration.
@@ -394,5 +396,4 @@ Growth vs fixed mindset.
 
 ### Role of Rules
  
-
-
+---

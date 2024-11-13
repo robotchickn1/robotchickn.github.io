@@ -95,10 +95,11 @@ Types of forex rates:
 
 ---
 ## Unemployment:
-
 - structural: tech changes replacing humans.
 - disguised: people acting as if working but not at optimal levels.
 - cyclical: business cycle.
 - seasonal: due to weather changes
 - frictional: shifting jobs
 - voluntary: people opting out to work.
+
+---
