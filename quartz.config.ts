@@ -16,8 +16,8 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    baseUrl: "Omkar211202.github.io",
+    ignorePatterns: ["private", "templates", ".obsidian","excalidraw"],
     defaultDateType: "created",
     generateSocialImages: false,
     theme: {
